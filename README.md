@@ -42,9 +42,27 @@
     <li>Thymeleaf</li>
     <li>PostgreSQL Driver</li>
     <li>Jakarta Servlet API</li>
-    <li>JWT (JSON Web Token)</li>
     <li>ModelMapper</li>
     <li>Lombok</li>
+  </ul>
+  <br>
+
+  <h2>Interface do Sistema</h2>
+  <ul>
+   <li>Dashboard</li>
+   <li>Pacientes</li>
+   <li>Médicos</li>
+   <li>Agendamento</li>
+   <li>Prontuário</li>
+  </ul>
+  <br>
+
+   <h2>Objetivo</h2>
+  <ul>
+   <li>Desenvolvimento de APIs REST com Spring Boot</li>
+   <li>Aplicação de boas práticas de arquitetura back-end</li>
+   <li>Integração com banco de dados relacional</li>
+   <li>Organização e estruturação de projetos escaláveis</li>
   </ul>
   <br>
 
