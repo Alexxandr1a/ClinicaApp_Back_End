@@ -49,21 +49,21 @@
   <br>
 
 <h2>Dashboard</h2>
-<img width="1916" height="870" alt="Image" src="https://github.com/user-attachments/assets/44e7bd79-52cb-412a-ae53-16c7aae3491b" />
+<img width="1918" height="865" alt="Image" src="https://github.com/user-attachments/assets/6f9e098f-c318-4519-a9ff-992e5d04bc0c" />
 <br>
 
 <h2>Pacientes</h2>
-<img width="1918" height="863" alt="Image" src="https://github.com/user-attachments/assets/bc3a424e-ae0b-490f-89af-338ce67a985e" />
+<img width="1918" height="862" alt="Image" src="https://github.com/user-attachments/assets/bedf13cf-ee34-4403-b407-5e0900894fac" />
 <br>
 
 <h2>Médicos</h2>
-<img width="1918" height="858" alt="Image" src="https://github.com/user-attachments/assets/d55922d6-11f9-4392-b461-5979c531efef" />
+<img width="1912" height="876" alt="Image" src="https://github.com/user-attachments/assets/b6b5a05d-6202-428f-a43b-ee24703e09f9" />
 <br>
 
 <h2>Agendamento</h2>
-<img width="1919" height="736" alt="Image" src="https://github.com/user-attachments/assets/2d911c31-d146-43a3-8280-292daffdbf1a" />
+<img width="1918" height="866" alt="Image" src="https://github.com/user-attachments/assets/b8df1682-472c-4d65-8211-9d75a023ada9" />
 <br>
 
 <h2>Prontuário</h2>
-<img width="1918" height="859" alt="Image" src="https://github.com/user-attachments/assets/f2cc5cb6-088e-44a2-a00c-c353a4782fc8" />
+<img width="1918" height="871" alt="Image" src="https://github.com/user-attachments/assets/fa64de97-55f5-43cb-aad3-41e1e276a1e2" />
 
